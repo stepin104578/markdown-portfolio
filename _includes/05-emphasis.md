@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Mysore is a veru peaceful city**
+_It has many historical Places_
+_**Mysuru** is the best place to live_
