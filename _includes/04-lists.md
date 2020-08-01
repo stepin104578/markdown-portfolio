@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Wake up
+* Feel fresh
+  * have a cup of coffee
+  * Formula 1
